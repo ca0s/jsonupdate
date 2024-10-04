@@ -1,0 +1,4 @@
+github.com/ca0s/jsonfilter v0.0.0-20241004162914-dec8ab98a6b0 h1:taMM1Oh38t8Ur9rmnTdTlL/6Yhxb3xagIlTNj20gX6s=
+github.com/ca0s/jsonfilter v0.0.0-20241004162914-dec8ab98a6b0/go.mod h1:XxRhyIyPWzC+LKcJR3emBcH7ZgCVsY9hOP83W/YDo2s=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 h1:e66Fs6Z+fZTbFBAxKfP3PALWBtpfqks2bwGcexMxgtk=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0/go.mod h1:2TbTHSBQa924w8M6Xs1QcRcFwyucIwBGpK1p2f1YFFY=
